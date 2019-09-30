@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "FP_I2Czetawithoutdelay", "ArduinoSketch1\FP_I2Czetawithoutdelay\FP_I2Czetawithoutdelay.cppproj", "{DCE6C7E3-EE26-4D79-826B-08594B9AD897}"
+EndProject
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "ArduinoCore", "ArduinoSketch1\ArduinoCore\ArduinoCore.cppproj", "{E41F72D5-02DE-420C-855D-C45E6D5BE979}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.Build.0 = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.ActiveCfg = Release|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.Build.0 = Release|AVR
+		{E41F72D5-02DE-420C-855D-C45E6D5BE979}.Debug|AVR.ActiveCfg = Debug|AVR
+		{E41F72D5-02DE-420C-855D-C45E6D5BE979}.Debug|AVR.Build.0 = Debug|AVR
+		{E41F72D5-02DE-420C-855D-C45E6D5BE979}.Release|AVR.ActiveCfg = Release|AVR
+		{E41F72D5-02DE-420C-855D-C45E6D5BE979}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
